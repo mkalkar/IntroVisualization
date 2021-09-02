@@ -1,0 +1,52 @@
+/* ID Selector (e.g. #content)
+Class Selector
+Descendant Selector for the dynamically created WashU facts (paragraphs)
+Custom Hover-Effect for hyperlinks
+Padding and Margin properties
+Color or Background-Color properties */
+/* #content {
+  color: purple;
+} */
+
+/* div {
+    font-size: 15px;
+    padding: 30px 10px;
+    background-color: #F7F7F7;
+    color: black;
+    border: 2px solid red;
+} */
+
+#header{
+  color: purple;
+
+}
+
+.btn{
+  color: white;
+}
+
+#content p {
+  color: blue;
+}
+
+
+a:hover {
+  color: hotpink;
+}
+
+body{
+  background color: snow;
+  margin: 10px;
+  padding: 15px;
+  text-align: center;
+}
+
+img{
+  width: 50%;
+  height: 50%;
+}
+
+#dropdown{
+  color: black;
+  background-color: red;
+}
